@@ -1,4 +1,4 @@
-# project-1
+# Project - 1 (One Feed)
 
 userStory:
 Someone who is looking for a way to not have to go to many different websites and apps to view the content that they are already are viewing.
